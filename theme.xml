@@ -27,8 +27,8 @@ license:        creative commons CC-BY-NC-SA
 
 	<!-- Background Style -->
 	<subset name="themestyle" displayName="Background Style: ">
-		<include name="light" displayName="Gray">./_inc/subsets/style/light.xml</include>
-		<include name="dark" displayName="Dark">./_inc/subsets/style/dark.xml</include>
+		<include name="light" displayName="Normal">./_inc/subsets/style/light.xml</include>
+		<include name="dark" displayName="High Contrast">./_inc/subsets/style/dark.xml</include>
 		<include name="minimal" displayName="Minimal">./_inc/subsets/style/minimal.xml</include>
 		<include name="nes" displayName="Nes-Box">./_inc/subsets/style/nes.xml</include>
 	</subset>
