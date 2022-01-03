@@ -340,8 +340,8 @@ license:        creative commons CC-BY-NC-SA
 
 	<!-- Alternative System View Art Support -->
 	<subset name="88-mph" displayName="Alt View Arts: ">
-		<include name="on" displayName="Off">./_inc/subsets/backgrounds/backgrounds-alt-off.xml</include>
-		<include name="off" displayName="On">./_inc/subsets/backgrounds/backgrounds-alt-on.xml</include>
+		<include name="off" displayName="Off">./_inc/subsets/backgrounds/backgrounds-alt-off.xml</include>
+		<include name="on" displayName="On">./_inc/subsets/backgrounds/backgrounds-alt-on.xml</include>
 	</subset>
 
 	<!-- Game Count Display -->
